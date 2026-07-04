@@ -171,4 +171,4 @@ Orbit은 조직 내 업무 시스템을 하나로 통합해, 사용자가 여러
 ### 📫 Contact
 
 ✉️ Email: often99920@gmail.com
-🌐 Portfolio: (https://subinkim.netlify.app/)
+🌐 Portfolio: https://subinkim.netlify.app/
