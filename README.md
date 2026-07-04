@@ -157,7 +157,7 @@ Orbit은 조직 내 업무 시스템을 하나로 통합해, 사용자가 여러
 
 ### 💡 Project Experience Summary
 
-2025.12 ~ 2026.07 한국정보교육원 K-Digital Training 과정을 통해 백엔드부터 프론트엔드, 인프라 배포, 생성형 AI(Spring AI, Agentic AI) 활용까지 실무 중심으로 학습했습니다.
+2025.12 ~ 2026.07 **한국정보교육원 K-Digital Training** 과정을 통해 백엔드부터 프론트엔드, 인프라 배포, 생성형 AI(Spring AI, Agentic AI) 활용까지 실무 중심으로 학습했습니다.
 
 1차 프로젝트인 **우리동네.zip**에서는 Spring Legacy와 JSP 기반의 서버 사이드 렌더링 구조로 모임 관리와 게시판 기능을 구현하며 MVC 구조와 웹 개발의 기본 흐름을 익혔고, Git 브랜치 전략 수립과 전체 QA를 담당했습니다.
 
